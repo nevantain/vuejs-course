@@ -1,4 +1,6 @@
-# less10_vuejs
+# First vue.js project
+
+This site was created from a YouTube tutorial, this is my first project on vue.js, routing, sorting, searching and creating posts are implemented here.
 
 ## Project setup
 ```
